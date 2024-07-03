@@ -1,1 +1,11 @@
 测试git
+
+
+第一步：
+git status //查看未被追踪的文件
+
+git add 文件名 //追踪
+
+git commit -m "提交描述信息" // 放到本地仓库
+
+git push //提交到远程仓库
