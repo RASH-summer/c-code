@@ -9,3 +9,6 @@ git add 文件名 //追踪
 git commit -m "提交描述信息" // 放到本地仓库
 
 git push //提交到远程仓库
+
+
+git pull --rebase origin master // 远程库同步到本地库
